@@ -14,6 +14,7 @@ Olá, me chamo Felipe Rocha, sou de Minas Gerais, Brasil, graduado em Ciência d
 
 [![Felipe Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliperocha-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Felipe Rocha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=feliperocha-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
