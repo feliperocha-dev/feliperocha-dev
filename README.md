@@ -2,32 +2,20 @@
 
 ### Hello, world! 👋
  
-Olá, me chamo Felipe Rocha, sou de Minas Gerais, Brasil, graduado em Ciência da Computação, e atualmente estou me capacitando para ser um Desenvolvedor Full-Stack Júnior. :nerd_face::computer:
+Olá, me chamo Felipe Rocha, sou de Minas Gerais, Brasil, graduado em Ciência da Computação, e atualmente estou me capacitando para ser um Desenvolvedor Full-Stack Júnior.:nerd_face::computer:
  
 - 🔭 Estou estudando frontend com foco no framework React;
 - 🌱 Estou aprendendo sobre Redux, Context API e React Hooks;
 - 💬 Me pergunte sobre qualquer coisa;
+
+Hello, my name is Felipe Rocha, I'm from Minas Gerais, Brazil, graduated in Computer Science, and I'm currently training to be a Junior Full-Stack Developer.:nerd_face::computer:
+
+- 🔭 I'm studying frontend with a focus on the React framework;
+- 🌱 I'm learning about Redux, Context API and React Hooks;
+- 💬 Ask me about anything;
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperocha-dev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Felipe Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliperocha-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Felipe Rocha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=feliperocha-dev)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**feliperocha-dev/feliperocha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
