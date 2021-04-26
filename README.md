@@ -1,12 +1,11 @@
 # Hello, world! 👋
 
-## Sobre mim / About
+## Sobre mim / About :nerd_face::computer:
 
 Olá, me chamo Felipe Rocha, sou de Minas Gerais, Brasil, graduado em Ciência da Computação, e atualmente estou me capacitando para ser um Desenvolvedor Full-Stack Júnior.
 
 Hello, my name is Felipe Rocha, I'm from Minas Gerais, Brazil, graduated in Computer Science, and I'm currently training to be a Junior Full-Stack Developer.
 
-:nerd_face::computer:
 
 - 🔭 Estou estudando frontend com foco no framework React / I'm studying frontend with a focus on the React framework;
 - 🌱 Estou aprendendo sobre Redux, Context API e React Hooks / I'm learning about Redux, Context API and React Hooks;
