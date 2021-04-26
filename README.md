@@ -8,7 +8,6 @@ Hello, my name is Felipe Rocha, I'm from Minas Gerais, Brazil, graduated in Comp
 
 :nerd_face::computer:
  
- ---
  
  ## Interesses Pessoais / Personal Interests
  
@@ -16,7 +15,6 @@ Hello, my name is Felipe Rocha, I'm from Minas Gerais, Brazil, graduated in Comp
 - 🌱 Estou aprendendo sobre Redux, Context API e React Hooks / I'm learning about Redux, Context API and React Hooks;
 - 💬 Me pergunte sobre qualquer coisa / Ask me about anything;
 
----
 
 ## Linguagens e Ferramentas / Languages and Tools
 
@@ -25,7 +23,6 @@ Hello, my name is Felipe Rocha, I'm from Minas Gerais, Brazil, graduated in Comp
 
 [![Felipe Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliperocha-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 ## Contato / Contact
 
