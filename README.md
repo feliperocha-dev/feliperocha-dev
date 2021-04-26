@@ -12,14 +12,9 @@ Hello, my name is Felipe Rocha, I'm from Minas Gerais, Brazil, graduated in Comp
  
  Interesses Pessoais / Personal Interests
  
-- 🔭 Estou estudando frontend com foco no framework React;
-- 🌱 Estou aprendendo sobre Redux, Context API e React Hooks;
-- 💬 Me pergunte sobre qualquer coisa;
-
-
-- 🔭 I'm studying frontend with a focus on the React framework;
-- 🌱 I'm learning about Redux, Context API and React Hooks;
-- 💬 Ask me about anything;
+- 🔭 Estou estudando frontend com foco no framework React / I'm studying frontend with a focus on the React framework;
+- 🌱 Estou aprendendo sobre Redux, Context API e React Hooks / I'm learning about Redux, Context API and React Hooks;
+- 💬 Me pergunte sobre qualquer coisa / Ask me about anything;
 
 ---
 
