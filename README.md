@@ -7,9 +7,9 @@
 - 🔭 Estou estudando frontend com foco no framework React;
 - 🌱 Estou aprendendo sobre Redux, Context API e React Hooks;
 - 💬 Me pergunte sobre qualquer coisa;
-
-
-[![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=feliperocha-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+\
+\
+[![Felipe Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliperocha-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
