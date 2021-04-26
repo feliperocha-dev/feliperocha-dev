@@ -1,4 +1,11 @@
-### Hi there 👋
+[![linkedin logo]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})](https://www.linkedin.com/in/felipe-silva-rocha/)
+
+### Hello Wolrd! 👋
+ 
+ Olá, me chamo Felipe Rocha, sou de Minas Gerais, Brasil, estou me capacitando para ser um Desenvolvedor Full-Stack Júnior. 
+ 
+ 
+
 
 <!--
 **feliperocha-dev/feliperocha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
