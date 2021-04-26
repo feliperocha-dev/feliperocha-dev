@@ -2,12 +2,12 @@
 
 ### Hello, world! 👋
  
- Olá, me chamo Felipe Rocha, sou de Minas Gerais, Brasil, graduado em Ciência da Computação, e atualmente estou me capacitando para ser um Desenvolvedor Full-Stack Júnior. :nerd_face::computer:
+Olá, me chamo Felipe Rocha, sou de Minas Gerais, Brasil, graduado em Ciência da Computação, e atualmente estou me capacitando para ser um Desenvolvedor Full-Stack Júnior. :nerd_face::computer:
  
 - 🔭 Estou estudando frontend com foco no framework React;
 - 🌱 Estou aprendendo sobre Redux, Context API e React Hooks;
-- 💬 Me pergunte sobre qualquer coisa;//
-
+- 💬 Me pergunte sobre qualquer coisa;
+(space, space)
 
 [![Felipe Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliperocha-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
