@@ -17,7 +17,7 @@ Hello, my name is Felipe Rocha, I'm from Minas Gerais, Brazil, graduated in Comp
 
 <a href="https://www.linkedin.com/in/felipe-silva-rocha/">![linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="mailto: felipe.sr27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"/></a>
 
-## Linguagens / Languages
+## Linguagens e Ferramentas / Languages and Tools
 
 <br/>
 
