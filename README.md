@@ -7,11 +7,12 @@ Olá, me chamo Felipe Rocha, sou de Minas Gerais, Brasil, graduado em Ciência d
 - 🔭 Estou estudando frontend com foco no framework React;
 - 🌱 Estou aprendendo sobre Redux, Context API e React Hooks;
 - 💬 Me pergunte sobre qualquer coisa;
-(space, space)
 
-[![Felipe Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliperocha-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperocha-dev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Felipe Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliperocha-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperocha-dev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **feliperocha-dev/feliperocha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
