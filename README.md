@@ -16,8 +16,7 @@ Hello, my name is Felipe Rocha, I'm from Minas Gerais, Brazil, graduated in Comp
 - 💬 Me pergunte sobre qualquer coisa / Ask me about anything;
 
 
-## Linguagens e Ferramentas / Languages and Tools
-
+## Linguagens / Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperocha-dev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
