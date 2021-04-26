@@ -2,19 +2,29 @@
 
 ### Hello, world! 👋
  
-Olá, me chamo Felipe Rocha, sou de Minas Gerais, Brasil, graduado em Ciência da Computação, e atualmente estou me capacitando para ser um Desenvolvedor Full-Stack Júnior.:nerd_face::computer:
+Olá, me chamo Felipe Rocha, sou de Minas Gerais, Brasil, graduado em Ciência da Computação, e atualmente estou me capacitando para ser um Desenvolvedor Full-Stack Júnior.
+
+Hello, my name is Felipe Rocha, I'm from Minas Gerais, Brazil, graduated in Computer Science, and I'm currently training to be a Junior Full-Stack Developer.
+
+:nerd_face::computer:
+ 
+ ---
+ 
+ Interesses Pessoais / Personal Interests
  
 - 🔭 Estou estudando frontend com foco no framework React;
 - 🌱 Estou aprendendo sobre Redux, Context API e React Hooks;
 - 💬 Me pergunte sobre qualquer coisa;
 
-Hello, my name is Felipe Rocha, I'm from Minas Gerais, Brazil, graduated in Computer Science, and I'm currently training to be a Junior Full-Stack Developer.:nerd_face::computer:
 
 - 🔭 I'm studying frontend with a focus on the React framework;
 - 🌱 I'm learning about Redux, Context API and React Hooks;
 - 💬 Ask me about anything;
 
 ---
+
+Linguagens e Ferramentas / Languages and Tools
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperocha-dev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
